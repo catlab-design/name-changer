@@ -10,7 +10,7 @@
   "contact": {
     "homepage": "https://dotpp.xyz"
   },
-  "license": "unlicense",
+  "license": "GPL-3.0-or-later",
   "environment": "*",
   "entrypoints": {
     "main": [

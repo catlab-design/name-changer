@@ -25,3 +25,6 @@ run/
 *.log
 *.tmp
 out/
+
+# Target repo inspect
+_target_repo_inspect/

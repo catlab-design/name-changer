@@ -29,4 +29,4 @@ A Minecraft mod for Forge and Fabric that lets you change player display names w
 
 ## License
 
-This project is in the public domain under The Unlicense.
+This project is licensed under the GNU General Public License v3.0 or later.
